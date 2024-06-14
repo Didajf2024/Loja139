@@ -1,0 +1,8 @@
+
+
+
+1 - Alterei a letra i da pasta para Maiúsculas e Minúsculas para ver oq acontece e o erro permanece 
+
+2 - using WebDriverManager;
+    using WebDriverManager.DriverConfigs.Impl;
+removi essas duas linhas para ver tbm se o erro ocorre e continua igual 
